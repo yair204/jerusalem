@@ -2,8 +2,8 @@
 ## שלום!
 
 
-הפרוייקט מבוסס על טכנולוגיות-
-mean stack (mongoDB express angular node.js)
+הפרוייקט מבוסס על טכנולוגיות
+-mean stack (mongoDB express angular node.js)
 
 הפרוייקט מובסס על אתר תירות בירושלים בקטגורית מסעדות האתר מתחבר לדטבייס  וובי
 mlab (mongoDB)
